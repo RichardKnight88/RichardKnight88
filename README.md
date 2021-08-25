@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Meaningful projects with positive social impact
 - 🤔 I’m looking for help with ... An introduction to the tech industry in Columbus, OH.
 - 💬 Ask me about ... The moquettes (seat patterns) I designed for Transport for London.
-- 📫 How to reach me: via <a href="mailto:rknightdesign@gmail.com?subject=Hey Richard" target="_blank">email</a> or <a href="https://www.linkedin.com/in/richard-knight-software/" target="_blank">LinkedIn</a>
+- 📫 How to reach me: via <a href="https://www.linkedin.com/in/richard-knight-software/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... My teenage CD collection was arranged alphabetically by band and chronologically by album
 
