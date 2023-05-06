@@ -1,9 +1,9 @@
 <h2 align="center"> Welcome to my Github Profile! </h2>
 
 
-- 🔭 I’m currently working on ... Learning to create tests with Jest.
+- 🔭 I’m currently working on ... Revolutionising social fundraising.
 - 👯 I’m looking to collaborate on ... Meaningful projects with positive social impact
-- 🤔 I’m looking for help with ... An introduction to the tech industry in Columbus, OH.
+- 🤔 I’m looking for help with ... An introduction to the tech industry in Vancouver, BC.
 - 💬 Ask me about ... The moquettes (seat patterns) I designed for Transport for London.
 - 📫 How to reach me: via <a href="https://www.linkedin.com/in/richard-knight-software/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: ... He/Him
